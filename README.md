@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaked</h1>
-<h3 align="center">A Software Engineer with a lot of passion for information security (and AI & ML).</h3>
+<h3 align="center">A Senior Software Engineer with a lot of passion for information security (and AI & ML).</h3>
 
-- 🔭 I’m currently working as **Fullstack Developer.**
+- 🔭 I’m currently working as **Senior Software Engineer.**
 - 👯 I’m looking to collaborate on **anything involving complex thinking and hard challenges.**
 
 <br>
